@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mal\\Downloads\\WebShopApp\\WebShopApp.Core\\WebShopApp.Core.csproj": {}
+    "C:\\Users\\Student\\Documents\\BK 12b\\WebShop3\\WebShopApp.Core\\WebShopApp.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mal\\Downloads\\WebShopApp\\WebShopApp.Core\\WebShopApp.Core.csproj": {
+    "C:\\Users\\Student\\Documents\\BK 12b\\WebShop3\\WebShopApp.Core\\WebShopApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mal\\Downloads\\WebShopApp\\WebShopApp.Core\\WebShopApp.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\Documents\\BK 12b\\WebShop3\\WebShopApp.Core\\WebShopApp.Core.csproj",
         "projectName": "WebShopApp.Core",
-        "projectPath": "C:\\Users\\Mal\\Downloads\\WebShopApp\\WebShopApp.Core\\WebShopApp.Core.csproj",
-        "packagesPath": "C:\\Users\\Mal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mal\\Downloads\\WebShopApp\\WebShopApp.Core\\obj\\",
+        "projectPath": "C:\\Users\\Student\\Documents\\BK 12b\\WebShop3\\WebShopApp.Core\\WebShopApp.Core.csproj",
+        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student\\Documents\\BK 12b\\WebShop3\\WebShopApp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Mal\\Downloads\\WebShopApp\\WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj": {
-                "projectPath": "C:\\Users\\Mal\\Downloads\\WebShopApp\\WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj"
+              "C:\\Users\\Student\\Documents\\BK 12b\\WebShop3\\WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj": {
+                "projectPath": "C:\\Users\\Student\\Documents\\BK 12b\\WebShop3\\WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj"
               }
             }
           }
@@ -100,24 +100,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Mal\\Downloads\\WebShopApp\\WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj": {
+    "C:\\Users\\Student\\Documents\\BK 12b\\WebShop3\\WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mal\\Downloads\\WebShopApp\\WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\Documents\\BK 12b\\WebShop3\\WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj",
         "projectName": "WebShopApp.Infrastrucutre",
-        "projectPath": "C:\\Users\\Mal\\Downloads\\WebShopApp\\WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj",
-        "packagesPath": "C:\\Users\\Mal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mal\\Downloads\\WebShopApp\\WebShopApp.Infrastrucutre\\obj\\",
+        "projectPath": "C:\\Users\\Student\\Documents\\BK 12b\\WebShop3\\WebShopApp.Infrastrucutre\\WebShopApp.Infrastrucutre.csproj",
+        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student\\Documents\\BK 12b\\WebShop3\\WebShopApp.Infrastrucutre\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -178,7 +178,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
