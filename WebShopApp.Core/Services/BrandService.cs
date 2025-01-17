@@ -25,7 +25,8 @@ namespace WebShopApp.Core.Services
 
         public List<Brand> GetBrands() 
         { 
-            List<Brand> brands = _context.Brands.ToList(); return brands; 
+            List<Brand> brands = _context.Brands.ToList(); 
+            return brands; 
         }
 
         public List<Product> GetProductByBrand(int brandId) 

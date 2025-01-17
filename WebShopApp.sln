@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebShopApp", "WebShopApp\We
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebShopApp.Infrastrucutre", "WebShopApp.Infrastrucutre\WebShopApp.Infrastrucutre.csproj", "{C27E3BD4-8456-42B9-9262-C82E8537AA81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebShopApp.Core", "WebShopApp.Core\WebShopApp.Core.csproj", "{CB40CD34-B3B0-425B-AF73-6B9B865D2DE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebShopApp.Core", "WebShopApp.Core\WebShopApp.Core.csproj", "{CB40CD34-B3B0-425B-AF73-6B9B865D2DE5}"
 	ProjectSection(ProjectDependencies) = postProject
 		{C27E3BD4-8456-42B9-9262-C82E8537AA81} = {C27E3BD4-8456-42B9-9262-C82E8537AA81}
 	EndProjectSection

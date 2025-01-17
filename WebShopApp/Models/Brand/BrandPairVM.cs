@@ -1,0 +1,13 @@
+﻿using System.ComponentModel.DataAnnotations;
+using System.Runtime.CompilerServices;
+
+namespace WebShopApp.Models.Brand
+{
+    public class BrandPairVM
+    {
+        public int Id { get; set; }
+
+        [Display(Name = "Brand")]
+        public string Name { get; set; } = null!;
+    }
+}

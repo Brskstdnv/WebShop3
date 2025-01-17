@@ -38,12 +38,10 @@ namespace WebShopApp.Infrastrucutre.Infrastructure
 
             dataCategory.Categories.AddRange(new[]
             {
-            new Category {CategoryName="Laptop"},
-            new Category {CategoryName="Computer"},
-            new Category {CategoryName="Monitor"},
-            new Category {CategoryName="Accessory"},
-            new Category {CategoryName="TV"},
-            new Category {CategoryName="Mobile phone"},
+            new Category {CategoryName="Analogue"},
+            new Category {CategoryName="Digital"},
+            new Category {CategoryName="Chronograph"},
+            new Category {CategoryName="Hybryd"},
             new Category {CategoryName="Smart watch"}
             });
 
@@ -59,14 +57,14 @@ namespace WebShopApp.Infrastrucutre.Infrastructure
 
             dataBrand.Brands.AddRange(new[]
             {
-            new Brand {BrandName="Acer"},
-            new Brand {BrandName="Asus"},
-            new Brand {BrandName="Apple"},
-            new Brand {BrandName="Dell"},
-            new Brand {BrandName="HP"},
-            new Brand {BrandName="Huawei"},
-            new Brand {BrandName="Lenovo"},
-            new Brand {BrandName="Samsung"}
+            new Brand {BrandName="Rolex"},
+            new Brand {BrandName="Hublot"},
+            new Brand {BrandName="IWC"},
+            new Brand {BrandName="Omega"},
+            new Brand {BrandName="Casio"},
+            new Brand {BrandName="Cartier"},
+            new Brand {BrandName="Patek Philipe"},
+            new Brand {BrandName="AP"}
             });
 
             dataBrand.SaveChanges();
