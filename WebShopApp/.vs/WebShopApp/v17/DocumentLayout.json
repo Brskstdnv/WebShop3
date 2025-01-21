@@ -1,0 +1,799 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23A1ACAA-AB77-4E8C-A2B5-2913848F595E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp.infrastructure\\data\\infrastructure\\applicationbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A1ACAA-AB77-4E8C-A2B5-2913848F595E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|solutionrelative:webshopapp.infrastructure\\data\\infrastructure\\applicationbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\models\\product\\producteditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\models\\product\\producteditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\models\\product\\productdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\models\\product\\productdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\models\\category\\categorypairvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\models\\category\\categorypairvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C14E63-24F3-41F5-B909-40EF5D31ED06}|WebShopApp.Core\\WebShopApp.Core.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp.core\\contracts\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C14E63-24F3-41F5-B909-40EF5D31ED06}|WebShopApp.Core\\WebShopApp.Core.csproj|solutionrelative:webshopapp.core\\contracts\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|c:\\users\\student\\desktop\\kaloqnwebshop\\webshopapp\\webshopapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C14E63-24F3-41F5-B909-40EF5D31ED06}|WebShopApp.Core\\WebShopApp.Core.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp.core\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C14E63-24F3-41F5-B909-40EF5D31ED06}|WebShopApp.Core\\WebShopApp.Core.csproj|solutionrelative:webshopapp.core\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A1ACAA-AB77-4E8C-A2B5-2913848F595E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp.infrastructure\\data\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A1ACAA-AB77-4E8C-A2B5-2913848F595E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|solutionrelative:webshopapp.infrastructure\\data\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\models\\product\\productindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\models\\product\\productindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\views\\product\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\product\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\models\\product\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\models\\product\\productcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C14E63-24F3-41F5-B909-40EF5D31ED06}|WebShopApp.Core\\WebShopApp.Core.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp.core\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C14E63-24F3-41F5-B909-40EF5D31ED06}|WebShopApp.Core\\WebShopApp.Core.csproj|solutionrelative:webshopapp.core\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C14E63-24F3-41F5-B909-40EF5D31ED06}|WebShopApp.Core\\WebShopApp.Core.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp.core\\services\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C14E63-24F3-41F5-B909-40EF5D31ED06}|WebShopApp.Core\\WebShopApp.Core.csproj|solutionrelative:webshopapp.core\\services\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C14E63-24F3-41F5-B909-40EF5D31ED06}|WebShopApp.Core\\WebShopApp.Core.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp.core\\contracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C14E63-24F3-41F5-B909-40EF5D31ED06}|WebShopApp.Core\\WebShopApp.Core.csproj|solutionrelative:webshopapp.core\\contracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C14E63-24F3-41F5-B909-40EF5D31ED06}|WebShopApp.Core\\WebShopApp.Core.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp.core\\contracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C14E63-24F3-41F5-B909-40EF5D31ED06}|WebShopApp.Core\\WebShopApp.Core.csproj|solutionrelative:webshopapp.core\\contracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\models\\brand\\brandpairvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\models\\brand\\brandpairvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A1ACAA-AB77-4E8C-A2B5-2913848F595E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A1ACAA-AB77-4E8C-A2B5-2913848F595E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|solutionrelative:webshopapp.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A1ACAA-AB77-4E8C-A2B5-2913848F595E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A1ACAA-AB77-4E8C-A2B5-2913848F595E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|solutionrelative:webshopapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A1ACAA-AB77-4E8C-A2B5-2913848F595E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp.infrastructure\\data\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A1ACAA-AB77-4E8C-A2B5-2913848F595E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|solutionrelative:webshopapp.infrastructure\\data\\domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A1ACAA-AB77-4E8C-A2B5-2913848F595E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp.infrastructure\\data\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A1ACAA-AB77-4E8C-A2B5-2913848F595E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|solutionrelative:webshopapp.infrastructure\\data\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A1ACAA-AB77-4E8C-A2B5-2913848F595E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp.infrastructure\\data\\domain\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A1ACAA-AB77-4E8C-A2B5-2913848F595E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|solutionrelative:webshopapp.infrastructure\\data\\domain\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A1ACAA-AB77-4E8C-A2B5-2913848F595E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp.infrastructure\\data\\domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A1ACAA-AB77-4E8C-A2B5-2913848F595E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|solutionrelative:webshopapp.infrastructure\\data\\domain\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C14E63-24F3-41F5-B909-40EF5D31ED06}|WebShopApp.Core\\WebShopApp.Core.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp.core\\webshopapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23C14E63-24F3-41F5-B909-40EF5D31ED06}|WebShopApp.Core\\WebShopApp.Core.csproj|solutionrelative:webshopapp.core\\webshopapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\webshopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\webshopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD54304-62C1-44F0-A38E-C6315B3CF421}|WebShopApp\\WebShopApp.csproj|solutionrelative:webshopapp\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A1ACAA-AB77-4E8C-A2B5-2913848F595E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\webshopapp.infrastructure\\webshopapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23A1ACAA-AB77-4E8C-A2B5-2913848F595E}|WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj|solutionrelative:webshopapp.infrastructure\\webshopapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 189,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebShopApp\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAgwKkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:19:26.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T13:22:07.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T11:05:04.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductIndexVM.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Models\\Product\\ProductIndexVM.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Models\\Product\\ProductIndexVM.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Models\\Product\\ProductIndexVM.cs",
+              "RelativeToolTip": "WebShopApp\\Models\\Product\\ProductIndexVM.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wBsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:35:42.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T11:45:09.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebShopApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:28:54.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Views\\Product\\Success.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Product\\Success.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Views\\Product\\Success.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Product\\Success.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T09:19:43.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T08:31:05.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Core\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Core\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Core\\Services\\ProductService.cs",
+              "RelativeToolTip": "WebShopApp.Core\\Services\\ProductService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA/wCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:04:10.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\Product.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\Domain\\Product.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\Product.cs",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\Data\\Domain\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBkAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:17:51.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationBuilderExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Infrastructure\\ApplicationBuilderExtension.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\Infrastructure\\ApplicationBuilderExtension.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Infrastructure\\ApplicationBuilderExtension.cs",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\Data\\Infrastructure\\ApplicationBuilderExtension.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwDwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:03:12.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T09:18:54.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T08:21:36.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductEditVM.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Models\\Product\\ProductEditVM.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Models\\Product\\ProductEditVM.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Models\\Product\\ProductEditVM.cs",
+              "RelativeToolTip": "WebShopApp\\Models\\Product\\ProductEditVM.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:03:14.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDetailsVM.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Models\\Product\\ProductDetailsVM.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Models\\Product\\ProductDetailsVM.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Models\\Product\\ProductDetailsVM.cs",
+              "RelativeToolTip": "WebShopApp\\Models\\Product\\ProductDetailsVM.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T08:22:53.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Models\\Product\\ProductCreateVM.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Models\\Product\\ProductCreateVM.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Models\\Product\\ProductCreateVM.cs",
+              "RelativeToolTip": "WebShopApp\\Models\\Product\\ProductCreateVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:12:59.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T10:39:01.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Program.cs",
+              "RelativeToolTip": "WebShopApp\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:56:58.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Core\\Contracts\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Core\\Contracts\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Core\\Contracts\\ICategoryService.cs",
+              "RelativeToolTip": "WebShopApp.Core\\Contracts\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:00:40.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBrandService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Core\\Contracts\\IBrandService.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Core\\Contracts\\IBrandService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Core\\Contracts\\IBrandService.cs",
+              "RelativeToolTip": "WebShopApp.Core\\Contracts\\IBrandService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:01:04.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Core\\Contracts\\IProductService.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Core\\Contracts\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Core\\Contracts\\IProductService.cs",
+              "RelativeToolTip": "WebShopApp.Core\\Contracts\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:51:47.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BrandService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Core\\Services\\BrandService.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Core\\Services\\BrandService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Core\\Services\\BrandService.cs",
+              "RelativeToolTip": "WebShopApp.Core\\Services\\BrandService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:05:45.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Core\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Core\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Core\\Services\\CategoryService.cs",
+              "RelativeToolTip": "WebShopApp.Core\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:05:28.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryPairVM.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Models\\Category\\CategoryPairVM.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Models\\Category\\CategoryPairVM.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Models\\Category\\CategoryPairVM.cs",
+              "RelativeToolTip": "WebShopApp\\Models\\Category\\CategoryPairVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:56:58.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\Brand.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\Domain\\Brand.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\Brand.cs",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\Data\\Domain\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:17:41.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\Category.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\Domain\\Category.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\Category.cs",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\Data\\Domain\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:17:42.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BrandPairVM.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Models\\Brand\\BrandPairVM.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Models\\Brand\\BrandPairVM.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Models\\Brand\\BrandPairVM.cs",
+              "RelativeToolTip": "WebShopApp\\Models\\Brand\\BrandPairVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:27:57.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\Order.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\Domain\\Order.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\Order.cs",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\Data\\Domain\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:17:44.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:56:33.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebShopApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:56:55.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\Domain\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Infrastructure\\Data\\Domain\\ApplicationUser.cs",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\Data\\Domain\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:17:37.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:17:58.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WebShopApp.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Core\\WebShopApp.Core.csproj",
+              "RelativeDocumentMoniker": "WebShopApp.Core\\WebShopApp.Core.csproj",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Core\\WebShopApp.Core.csproj",
+              "RelativeToolTip": "WebShopApp.Core\\WebShopApp.Core.csproj",
+              "ViewState": "AQIAAAUAAAAAmyOoxOcWwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T10:58:11.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebShopApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\appsettings.json",
+              "RelativeToolTip": "WebShopApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T11:28:43.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T11:28:44.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T11:28:44.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T11:49:06.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "WebShopApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\WebShopApp.csproj",
+              "RelativeDocumentMoniker": "WebShopApp\\WebShopApp.csproj",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\WebShopApp.csproj",
+              "RelativeToolTip": "WebShopApp\\WebShopApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T11:16:25.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "WebShopApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T11:17:30.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "WebShopApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:17:29.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebShopApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T10:18:55.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "WebShopApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAIwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:35:54.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebShopApp\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T10:18:41.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebShopApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T11:28:45.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "WebShopApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "WebShopApp\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:17:30.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebShopApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T11:17:28.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebShopApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebShopApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T10:18:14.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "WebShopApp.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
+              "RelativeToolTip": "WebShopApp.Infrastructure\\WebShopApp.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T10:58:06.216Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
