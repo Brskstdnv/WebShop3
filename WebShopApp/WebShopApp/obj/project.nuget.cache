@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ojNuE4FAbR2Hm/7vXz3TKOb8c/pd07XQUJXbi1Jscs0ju10Uigm1yheh+gEeckZX8/4pgc3X10IIeMxcprFXAQ==",
+  "dgSpecHash": "b2RzsK1yMsT2tSgHlisEagXgCEg10cAUI552lVB28BQ2GkfdxenQZHyd1MFuxVMLTjxPXPfSJFrxVCjMAmUJwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp\\WebShopApp\\WebShopApp.csproj",
+  "projectFilePath": "C:\\Users\\Student\\Desktop\\KaloqnWebShop\\WebShopApp5\\WebShopApp\\WebShopApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Student\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\Student\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
