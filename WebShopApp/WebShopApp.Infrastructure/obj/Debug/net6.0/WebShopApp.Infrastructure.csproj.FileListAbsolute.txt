@@ -56,3 +56,17 @@ C:\Users\Student\Desktop\WebShop3\WebShopApp\WebShopApp.Infrastructure\obj\Debug
 C:\Users\Student\Desktop\WebShop3\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.pdb
 C:\Users\Student\Desktop\WebShop3\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.genruntimeconfig.cache
 C:\Users\Student\Desktop\WebShop3\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\ref\WebShopApp.Infrastructure.dll
+C:\Users\bobar\Desktop\WebShop3\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net6.0\WebShopApp.Infrastructure.deps.json
+C:\Users\bobar\Desktop\WebShop3\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net6.0\WebShopApp.Infrastructure.runtimeconfig.json
+C:\Users\bobar\Desktop\WebShop3\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net6.0\WebShopApp.Infrastructure.dll
+C:\Users\bobar\Desktop\WebShop3\WebShopApp\WebShopApp.Infrastructure\bin\Debug\net6.0\WebShopApp.Infrastructure.pdb
+C:\Users\bobar\Desktop\WebShop3\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\bobar\Desktop\WebShop3\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bobar\Desktop\WebShop3\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\bobar\Desktop\WebShop3\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.AssemblyInfo.cs
+C:\Users\bobar\Desktop\WebShop3\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\bobar\Desktop\WebShop3\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.dll
+C:\Users\bobar\Desktop\WebShop3\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\refint\WebShopApp.Infrastructure.dll
+C:\Users\bobar\Desktop\WebShop3\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.pdb
+C:\Users\bobar\Desktop\WebShop3\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\WebShopApp.Infrastructure.genruntimeconfig.cache
+C:\Users\bobar\Desktop\WebShop3\WebShopApp\WebShopApp.Infrastructure\obj\Debug\net6.0\ref\WebShopApp.Infrastructure.dll
